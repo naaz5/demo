@@ -1,3 +1,3 @@
 # demo
-## editung the fike
+## editing the file
 this is my demo file
